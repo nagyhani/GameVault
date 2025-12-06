@@ -29,7 +29,7 @@ export default function Category() {
     
     <div className="relative  rounded-2xl group aspect-video">
      
-     <Link href={'/GetCategory/'+ shooter }>
+     <Link href={'/GetCategory/'+ action }>
       <div className='relative'>
 
          <Image
